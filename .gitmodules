@@ -1,0 +1,15 @@
+[submodule "fcc-random-quote-generator"]
+	path = fcc-random-quote-generator
+	url = https://github.com/sm1234sm/fcc-random-quote-generator
+[submodule "fcc-markdown-previewer"]
+	path = fcc-markdown-previewer
+	url = https://github.com/sm1234sm/fcc-markdown-previewer.git
+[submodule "fcc-drum-machine"]
+	path = fcc-drum-machine
+	url = https://github.com/sm1234sm/fcc-drum-machine.git
+[submodule "fcc-javascript-calculator"]
+	path = fcc-javascript-calculator
+	url = https://github.com/sm1234sm/fcc-javascript-calculator.git
+[submodule "25-plus-5-clock"]
+	path = 25-plus-5-clock
+	url = https://github.com/sm1234sm/25-plus-5-clock
